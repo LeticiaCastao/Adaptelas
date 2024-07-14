@@ -1,1 +1,13 @@
-Teste para aprender. Primeira versão.
+<!DOCTYPE html>
+<html lang="pt-BR">
+  
+        <img src="./logo_footer.png" alt="Logo Adapti">
+        <h1>Adaptelas</h1>
+        <p>Curso online de desenvolvimento web voltado exclusivamente para mulhres e ofertado pela Adapti, empresa júnior de Computação da Ufes do campus São Mateus. O curso oferece capacitação na área de programação front-end (parte visual de um site), proporcionando uma formação completa e acessível, que vai do nível básico ao avançado.</p>
+
+        <img src="./body.png" alt="Imagem de uma mulher">
+
+        <h2>Sobre a Adapti</h2>
+        <p>A Adapti é uma empresa com o foco em desenvolvimento de Site e Sistemas web. Buscamos sempre ajudar pequenas empresas a crescer e otimizar os seus processos, por meio de soluções digitais.<br>Desenvolvido em 2024 <b>- Adapti - Soluções Web</b></p>
+
+</html>

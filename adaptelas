@@ -1,13 +1,32 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-  
-        <img src="./logo_footer.png" alt="Logo Adapti">
+        <head>
+                <meta charset="UTF-8">
+                <style>
+                        body {
+                                background-color: #ADD8E6;
+                                font-family: Arial, sans-serif;
+                                color: #333;
+                        }
+                </style>
+        </head>
+
+        <img src="https://www.adapti.info/site/images/logoBRA.png" alt="Logo Adapti" width="15%" height="15%">
+        <ul>
+                <li>Início</li>
+                <li>Sobre nós</li>
+                <li>Serviços</li>
+                <li>Portfolio</li>
+                <li>blog</li>
+        </ul>
         <h1>Adaptelas</h1>
         <p>Curso online de desenvolvimento web voltado exclusivamente para mulhres e ofertado pela Adapti, empresa júnior de Computação da Ufes do campus São Mateus. O curso oferece capacitação na área de programação front-end (parte visual de um site), proporcionando uma formação completa e acessível, que vai do nível básico ao avançado.</p>
 
-        <img src="./body.png" alt="Imagem de uma mulher">
+        <img src="https://istoedinheiro.com.br/wp-content/uploads/sites/17/2022/09/aneurisma-cerebral-gpointstudio-freepik-e1662910236471.jpg?x46096" alt="Imagem de uma mulher" width="70%" height="70%">
+        <br>
+        <img src="https://www.adapti.info/site/images/logoBRA.png" alt="Logo Adapti" width="50%" height="50%">
 
         <h2>Sobre a Adapti</h2>
         <p>A Adapti é uma empresa com o foco em desenvolvimento de Site e Sistemas web. Buscamos sempre ajudar pequenas empresas a crescer e otimizar os seus processos, por meio de soluções digitais.<br>Desenvolvido em 2024 <b>- Adapti - Soluções Web</b></p>
-
+       
 </html>
